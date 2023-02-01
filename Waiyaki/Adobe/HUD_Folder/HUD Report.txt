@@ -1,0 +1,1006 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: HUD.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1080 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Futura PT Medium (Adobe Fonts)
+FenwickLt-Regular (Adobe Fonts)
+FenwickRg-Regular (Adobe Fonts)
+Futura PT Book (Adobe Fonts)
+EthnocentricLt-Regular (Adobe Fonts)
+EthnocentricEl-Regular (Adobe Fonts)
+GoodPro-News (Adobe Fonts)
+GoodTimesLt-Regular (Adobe Fonts)
+Lipa Agate Low Light (Adobe Fonts)
+Raleway ExtraLight (Adobe Fonts)
+Raleway Light (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Atiba Regular (OTF)
+Mono (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+C:\Users\Student\Desktop\image.png
+Type: Other
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Student\Pictures\wavy Background green.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1345,613 by 757,632 points 
+Resolution: 136,978 by 136,847 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1083,353 by 609,386 points 
+Resolution: 170,138 by 170,138 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\wavy Background green.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1345,613 by 757,632 points 
+Resolution: 136,978 by 136,847 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1083,353 by 609,386 points 
+Resolution: 170,138 by 170,138 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\wavy Background green.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1345,613 by 757,632 points 
+Resolution: 136,978 by 136,847 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1083,353 by 609,386 points 
+Resolution: 170,138 by 170,138 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\gunarm_mainarm.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 58593K, 5000 by 3000 pixels
+Dimensions: 320,186 by 192,111 points 
+Resolution: 1124,348 by 1124,348 pixels per inch
+
+
+C:\Users\Student\Downloads\gunarm_mainarm.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 58593K, 5000 by 3000 pixels
+Dimensions: 321,164 by 192,698 points 
+Resolution: 1120,924 by 1120,924 pixels per inch
+
+
+C:\Users\Student\Downloads\gunarm_mainarm.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 58593K, 5000 by 3000 pixels
+Dimensions: 321,164 by 192,698 points 
+Resolution: 1120,924 by 1120,924 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 532,503 by 401,54 points 
+Resolution: 415,367 by 413,13 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Elec BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 88200K, 4480 by 6720 pixels
+Dimensions: 707,135 by 1060,702 points 
+Resolution: 456,151 by 456,151 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1774,321 by 1330,739 points 
+Resolution: 124,658 by 124,659 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Acid BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 64800K, 5760 by 3840 pixels
+Dimensions: 5099,737 by 3399,825 points 
+Resolution: 81,322 by 81,322 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Elec BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 88200K, 4480 by 6720 pixels
+Dimensions: 707,135 by 1060,702 points 
+Resolution: 456,151 by 456,151 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Elec BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 88200K, 4480 by 6720 pixels
+Dimensions: 707,135 by 1060,702 points 
+Resolution: 456,151 by 456,151 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Elec BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 88200K, 4480 by 6720 pixels
+Dimensions: 1036,889 by 1555,333 points 
+Resolution: 311,085 by 311,085 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Elec BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 88200K, 4480 by 6720 pixels
+Dimensions: 1036,889 by 1555,333 points 
+Resolution: 311,085 by 311,085 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1774,321 by 1330,739 points 
+Resolution: 124,658 by 124,659 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Acid BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 64800K, 5760 by 3840 pixels
+Dimensions: 5099,737 by 3399,825 points 
+Resolution: 81,322 by 81,322 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Acid BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 64800K, 5760 by 3840 pixels
+Dimensions: 5099,737 by 3399,825 points 
+Resolution: 81,322 by 81,322 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 2260,709 by 1693,728 points 
+Resolution: 60,194 by 60,236 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Acid BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 64800K, 5760 by 3840 pixels
+Dimensions: 5099,737 by 3399,825 points 
+Resolution: 81,322 by 81,322 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1774,321 by 1330,739 points 
+Resolution: 124,658 by 124,659 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1774,321 by 1330,739 points 
+Resolution: 124,658 by 124,659 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 919,763 by 693,558 points 
+Resolution: 240,479 by 239,184 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Acid BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 64800K, 5760 by 3840 pixels
+Dimensions: 5099,737 by 3399,825 points 
+Resolution: 81,322 by 81,322 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1201,73 by 900,98 points 
+Resolution: 113,237 by 113,237 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Brushed.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10461K, 1890 by 1417 pixels
+Dimensions: 1047,922 by 785,665 points 
+Resolution: 129,857 by 129,857 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1764,762 by 1330,739 points 
+Resolution: 125,334 by 124,659 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 818,614 by 617,286 points 
+Resolution: 270,193 by 268,738 pixels per inch
+
+
+C:\Users\Student\Downloads\index.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 34179K, 3500 by 2500 pixels
+Dimensions: 580,457 by 414,612 points 
+Resolution: 434,141 by 434,141 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Ice BG.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20736K, 3072 by 2304 pixels
+Dimensions: 1257,348 by 943,011 points 
+Resolution: 175,913 by 175,913 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1007,786 by 823,687 points 
+Resolution: 484,174 by 484,174 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1007,786 by 823,687 points 
+Resolution: 484,174 by 484,174 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1007,786 by 823,687 points 
+Resolution: 484,174 by 484,174 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1007,786 by 823,687 points 
+Resolution: 484,174 by 484,174 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1007,786 by 823,687 points 
+Resolution: 484,174 by 484,174 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1366,741 by 1117,07 points 
+Resolution: 357,013 by 357,013 pixels per inch
+
+
+C:\Users\Student\Pictures\Project II\Nebula Background.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 109974K, 6777 by 5539 pixels
+Dimensions: 1366,741 by 1117,07 points 
+Resolution: 357,013 by 357,013 pixels per inch
+
+
+C:\Users\Student\Pictures\wavy Background green.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1345,613 by 757,632 points 
+Resolution: 136,978 by 136,847 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 1083,353 by 609,386 points 
+Resolution: 170,138 by 170,138 pixels per inch
+
+
+C:\Users\Student\Downloads\index.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 34179K, 3500 by 2500 pixels
+Dimensions: 1015,318 by 725,227 points 
+Resolution: 248,198 by 248,198 pixels per inch
+
+
+C:\Users\Student\Downloads\index.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 34179K, 3500 by 2500 pixels
+Dimensions: 1015,318 by 725,227 points 
+Resolution: 248,198 by 248,198 pixels per inch
+
+
+C:\Users\Student\Downloads\Upgrade - 2(1).png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 8100K, 1920 by 1080 pixels
+Dimensions: 1920 by 1080 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 640 by 1137,778 points 
+Resolution: 288 by 91,125 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 640 by 1137,778 points 
+Resolution: 288 by 91,125 pixels per inch
+
+
+C:\Users\Student\Pictures\Untitled-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10800K, 2560 by 1440 pixels
+Dimensions: 640 by 1137,778 points 
+Resolution: 288 by 91,125 pixels per inch
