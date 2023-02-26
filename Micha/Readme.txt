@@ -1,2 +1,1 @@
-Don't touch anything unless I tell you so. That's it. That's the Readme.(I like kids)
-Fuck you i do what i want
+Don't touch anything unless I tell you so. That's it. That's the Readme.
